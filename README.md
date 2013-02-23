@@ -1,0 +1,4 @@
+embc
+====
+
+Embedded Connectivity library
