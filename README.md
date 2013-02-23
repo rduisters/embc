@@ -1,4 +1,5 @@
 embc
 ====
 
-Embedded Connectivity library
+Embedded Connectivity
+Fontys Hogescholen Engineering Electrical and Electronic Engineering
